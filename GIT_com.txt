@@ -1,0 +1,2 @@
+-- If you really want to remove all of the repository, leaving only the working directory then it should be as simple as this
+rm -rf .git
